@@ -1,15 +1,13 @@
-MARYAM ASIF — PORTFOLIO WEBSITE
+MARYAM ASIF — RESPONSIVE GITHUB PAGES WEBSITE
 
-This is a self-contained website. All portfolio images are embedded directly in index.html, so there is no separate assets folder to upload.
+This package contains one self-contained index.html file. All 8 portfolio images are embedded in the HTML; no assets folder is required.
 
-PREVIEW
+GITHUB PAGES
 1. Extract this ZIP.
-2. Open index.html in a browser.
+2. Open your repository: Maryams_portfolio.
+3. In the repository root, upload/replace index.html with this file.
+4. Commit changes to the main branch.
+5. In Settings > Pages, select Deploy from a branch, main, /(root).
+6. Wait for deployment, then refresh the website.
 
-PUBLISH WITH NETLIFY DROP
-1. Open https://app.netlify.com/drop and sign in.
-2. Extract this ZIP on your computer.
-3. Drag the maryam_portfolio folder (the folder containing index.html) onto the Netlify Drop page.
-4. Wait for publishing to finish, then open the website URL Netlify provides.
-
-Do not upload the ZIP file itself. Upload the extracted maryam_portfolio folder.
+The layout adapts to mobile phones, tablets, laptops and desktop screens.
